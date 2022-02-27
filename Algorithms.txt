@@ -2,3 +2,22 @@ Topics:
 1.Number Theory
 2.Bit Manipulation
 3.Recursion and Backtracking
+-->Recursive Sort
+-->Sort An array using Recursion
+-->Tower of Hanoi
+-->Print 1 to n
+-->Delete Middle Element in a stack
+-->Reverse a stack
+-->Kth Symbol in Grammer
+-->Remove Duplicates from the string
+-->count the number of occurances
+-->Subset
+-->Permutation
+-->Josephous Problem
+-->Generate Balanced Paranthesis
+-->Print N-bit binary numbers having more 1’s than 0’s for any prefix
+-->Permutation with Case Change
+-->Letter Case Permutation
+-->Rat and Maze Problem
+-->N-Queens Problems
+-->n Color
